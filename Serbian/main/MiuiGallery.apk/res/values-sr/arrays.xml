@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>"5 minuta"</item>
+        <item>"15 minuta"</item>
+        <item>"30 minuta"</item>
+        <item>"1 sat"</item>
+        <item>Neograničeno</item>
+    </string-array>
+	<string-array name="baby_sexy">
+        <item>Dečak</item>
+        <item>Devojčica</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Tata</item>
+        <item>Mama</item>
+        <item>Deda sa tatine strane</item>
+        <item>Baka sa tatine strane</item>
+        <item>Deda sa majčine strane</item>
+        <item>Baka sa majčine strane</item>
+    </string-array>
+</resources> 

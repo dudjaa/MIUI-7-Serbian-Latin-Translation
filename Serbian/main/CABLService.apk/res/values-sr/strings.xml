@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Podešavanja sadržaja prilagodljivog pozadinskog osvetljenja</string>
+  <string name="cabl_enable_summary_off">Pozadinsko osvetljenje se neće podešavati na temelju sadržaja ekrana</string>
+  <string name="cabl_enable_summary_on">Pozadinsko osvetljenje će se podešavati na temelju sadržaja ekrana</string>
+  <string name="cabl_enable_title">Omogućiti prilagodljivo pozadinsko svetlo</string>
+  <string name="cabl_info_default">Nepoznato</string>
+  <string name="cabl_levels_summary">Niži nivo više spremljene energije, može prouzrokovati da ekran bude tamniji od očekivanog</string>
+  <string name="cabl_levels_title">Nivo energije</string>
+  <string name="cabl_settings_title">Podešavanja sadržaja prilagodljivog pozadinskog osvetljenja</string>
+  <string name="cabl_version_title">CABL Verzija</string>
+</resources>

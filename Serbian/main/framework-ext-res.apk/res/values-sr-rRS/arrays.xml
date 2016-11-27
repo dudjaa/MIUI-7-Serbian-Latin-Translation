@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUI Adria== powered by dudjaa-</item>
+	    <item>-==MIUI Adria==powered by dudjaa-</item>
+  	    <item>-==ROM made by dudjaa==-</item>
+        <item>Instaliranje u toku.</item>
+        <item>Instaliranje u toku..</item>
+        <item>Roaming Electronics</item>
+        <item>Optimizovanje aplikacija...</item>
+        <item>Napišite svoje primedbe na miui.website</item>
+    </string-array>
+</resources>

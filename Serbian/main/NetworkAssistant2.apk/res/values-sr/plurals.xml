@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Ne prati upotrebu podataka za ovoliko (%d) aplikacija</item>
+        <item quantity="one">Ne prati upotrebu podataka za %d aplikaciju</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Prati upotrebu podataka za ovoliko (%d) aplikacija</item>
+        <item quantity="one">Prati upotrbu podataka za %d aplikaciju</item>
+    </plurals>
+		<plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Ovoliko aplikacija (%d) je optimizovano</item>
+        <item quantity="one">%d aplikacija optimizovana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Ovoliko aplikacija (%d) može biti optimizovano</item>
+        <item quantity="one">%d aplikacija može biti optimizovana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">Ovoliko aplikacija (%d) koristi Uštedu Podataka</item>
+        <item quantity="one">%d aplikacija koristi Uštedu Podataka</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+     	<item quantity="other">Ovoliko aplikacija (%d) ne koristi Uštedu Podataka</item>
+        <item quantity="one">%d aplikacija ne koristi uštedu podataka</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Korišćeno pre (%d) dana</item>
+        <item quantity="one">Juče korišćeno</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Pretraživanje (%d) aplikacija</item>
+        <item quantity="one">Pretraživanje %d aplikacije</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Ovoliko aplikacija (%d) može koristiti mobilne podatke</item>
+        <item quantity="one">%d aplikacija može koristiti mobilne podatke</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"Ovoliko aplikacija (%d) ne može koristiti mobilne podatke"</item>
+        <item quantity="one">"%d aplikacija ne može koristiti mobilne podatke"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Pronađeno (%d) aplikacija</item>
+        <item quantity="one">%d aplikacija pronađena</item>
+    </plurals>
+</resources>

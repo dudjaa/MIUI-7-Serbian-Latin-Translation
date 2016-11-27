@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="access_denied">Pristup odbijen</string>
+  <string name="account">Račun</string>
+  <string name="activate">Aktiviraj</string>
+  <string name="activate_number_change_dialog_message">Odaberite veliki broj koji je potrebno aktivirati, prilikom VOIP poziva, pozvana stranka će videti ovaj broj</string>
+  <string name="activating">Aktiviranje</string>
+  <string name="alert_notif_title_dspt">Nije sinhronizovano</string>
+  <string name="antispam_sync">Podesi "Ne ometaj me"</string>
+  <string name="app_name">Mi Cloud</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud Servis</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Oko 72 RMB godišnje</string>
+  <string name="bad_authentication">Pogrešan račun ili lozinka</string>
+  <string name="btn_return">Nazad</string>
+  <string name="button_cancel">Odustani</string>
+  <string name="buy_more_space_b_class">"Prijavite se na mi.com/micloud da dobijete više prostora za memoriju.
+Potrebna je Mainland China bankovna kartica za kupovinu dodatne memorije."</string>
+  <string name="buy_more_space_c_class">"Ova funkcija zahteva Mainland China bankovnu karticu.
+Da dobijete više prostora za memoriju, posetite mi.com/micloud."</string>
+  <string name="buy_space_expire">Kupljen prostor će isteći za %s</string>
+  <string name="buy_space_expire_concat">%1$s do %2$s</string>
+  <string name="buy_space_sulotion_auto_renew">Obnovi automatski</string>
+  <string name="buy_space_sulotion_message">Kupite %sGB dodatnog prostora za memoriju</string>
+  <string name="buy_space_sulotion_not_auto_renew">"Ne obnavljaj automatski"</string>
+  <string name="buy_space_sulotion_renew_message">Dobro za %s</string>
+  <string name="buy_space_sulotion_renew_title">Obnovite pretplatu</string>
+  <string name="buy_space_sulotion_title">Kupite prostor za memoriju</string>
+  <string name="calendar_sync">Kalendar</string>
+  <string name="click_to_enabled">Dodirni za sinhronizaciju.</string>
+  <string name="cloud_back_up_button_ok">Nasilno zaustavi</string>
+  <string name="cloud_back_up_close_info">Dodirni za izradu Sig.kopije</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="cloud_back_up_dialog_content">"Zaustavite izradu sig. kopije u toku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>
+  <string name="cloud_back_up_interval_long">7 dana</string>
+  <string name="cloud_back_up_interval_short">1 dan</string>
+  <string name="cloud_back_up_network_unavailable">"Ne mogu se ukloniti. Povežite se na WLAN i pokušajte ponovo."</string>
+  <string name="cloud_back_up_open_info">"Napravi sig. kopiju aplikacija svakih %1$s kada je povezano na WLAN
+Zadnja Sig. kopija: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Napravi sig. kopiju aplikacija svakih %1$s kada je povezano na WLAN</string>
+  <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
+  <string name="cloud_back_up_title">Sig. kopija aplikacija</string>
+  <string name="cloud_backup_dialog_title">Napravi Sig. kopiju sa Mi Cloudom</string>
+  <string name="cloud_find_device">Pronađi Uređaj</string>
+  <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %sGB na vaš cloud.</string>
+  <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za memoriju"</string>
+  <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
+  <string name="cloudservice_new_sync">Sinhronizacija. %s sa Mi Cloudom</string>
+  <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinhronizaciju podataka, pronalazak svog telefona,</string>
+  <string name="contact">Kontakti</string>
+  <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
+  <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
+  <string name="enableAll">Sinhronizuj sve</string>
+  <string name="enable_cloud_service_notification">Morate aktivirati Mi Cloud</string>
+  <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
+  <string name="enable_micloud">Koristi Mi Cloud</string>
+  <string name="enable_sync">Sinhr.</string>
+  <string name="enable_sync_dspt">"Nemoj sinhr."</string>
+  <string name="error_data_in_transfer">Sinhronizacija će se završiti za %s sati.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud je nedostupan.</string>
+  <string name="error_forbidden">Sinhronizacija je onemogućena zbog problema sa vašim Mi Računom</string>
+  <string name="error_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="error_not_acceptable">Sinhronizacija je onemogućena.</string>
+  <string name="error_server">Greška servera</string>
+  <string name="error_title">"Ne mogu sinhronizovati"</string>
+  <string name="error_unauthorized">Previše pokušaja prijavljivanja: Sinhronizacija je onemogućena.</string>
+  <string name="error_unknown">"Ne mogu se prijaviti"</string>
+  <string name="find_device">"Pronađi uređaj" uključeno</string>
+  <string name="find_device_disabled_notice">Možete uključiti / isključiti funkciju "Pronađi Uređaj" bilo kada u Podešavanja Mi Clouda.</string>
+  <string name="find_device_disabled_title">"Pronađi uređaj" isključeno</string>
+  <string name="find_device_disabling">Isključivanje</string>
+  <string name="find_device_dspt">Locirajte, zakljucajte, ili restartuj te vaš uređaj na daljinu</string>
+  <string name="find_device_dspt_provision">""Ako izgubite svoj uređaj, možete ići na %s za pronalaženje, zaključavanje, ili ga poništiti. 
+  
+ Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
+  <string name="find_device_dspt_provision_3">. Možete uključiti isključiti tu funkciju u postavkama.</string>
+  <string name="find_device_dspt_provision_4">Ako promenite SIM kartice, SMS poruka će automatski biti poslata za ponovno aktiviranje ove funkcije.</string>
+  <string name="find_device_enabling">Uključivanje</string>
+  <string name="find_device_error_network">Proverite svoju prenos vezu i pokušajte ponovo</string>
+  <string name="find_device_error_server">Greška sistema</string>
+  <string name="find_device_noise_title">Zvuk lokacija uređaja</string>
+  <string name="find_device_notice_p1">Idite na</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
+  <string name="find_device_notice_p3">"da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
+  
+Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
+  <string name="find_device_send_sms_alert">
+  
+Ako promenite SIM kartice, još jedna SMS poruka će automatski biti poslata za ponovno aktiviranje ove funkcije.</string>
+  <string name="find_device_status_ok">Pronađite uređaj sa bilo kog mesta na i.mi.com</string>
+  <string name="find_device_status_ok_international">Pronađite svoj ureðaj s bilo kojeg mjesta na www.mi.com/micloud</string>
+  <string name="find_device_stop_noise">Dodirniteu redu za utišavanje</string>
+  <string name="find_device_success_title">Pronađi uređaj</string>
+  <string name="free_space_has_received">Već ste dodali slobodan prostor za ovaj mesec</string>
+  <string name="free_space_receive_fail">"Ne mogu nadograditi"</string>
+  <string name="get_first_month_gb">Dodajte %s slobodnog prostora</string>
+  <string name="get_this_month_gb">Dodajte %s slobodnog prostora ovaj mesec</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Oko RMB 143 godišnje</string>
+  <string name="header_data_and_synchronization">Podaci & sinhro.</string>
+  <string name="header_other_settings">Dodata podešavanja</string>
+  <string name="i_know">U redu</string>
+  <string name="internet_access_dspt">Ovoj aplikaciji je potrebno povezivanje sa internetom da radi normalno.</string>
+  <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da bi ste videli ove podatke sada, idite na %s."</string>
+  <string name="loading">Učitavanje…</string>
+  <string name="loading_hint">Učitavanje</string>
+  <string name="master_alert_notif_dspt_add">Stavka čeka na sinhro.: %s</string>
+  <string name="master_alert_notif_dspt_no">Sinhronizovano</string>
+  <string name="master_alert_notif_title">Zadnja sinhro. pre dana %s</string>
+  <string name="micloud_buy_member">Račun</string>
+  <string name="micloud_check_sim_notify_text">"Izgleda da ste promenili SIM kartice. prijavite se
+na vaš Mi Račun za aktiviranje Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_title">Ponovo aktiviraj Mi Cloud</string>
+  <string name="micloud_check_sim_title">"Izgleda da ste promenili SIM kartice. prijavi te se
+na vaš Mi Račun za aktiviranje Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">Preuzimanje %s</string>
+  <string name="micloud_detail_fail">"Ne mogu sinhro."</string>
+  <string name="micloud_detail_lastest">Sinhronizovano</string>
+  <string name="micloud_detail_pending">Na čekanju</string>
+  <string name="micloud_detail_preference_syncing">Sinhronizujem</string>
+  <string name="micloud_detail_preference_wlan">Sinhro. na WLAN-u</string>
+  <string name="micloud_detail_success">Sinhronizovano</string>
+  <string name="micloud_detail_syncing">Sinhronizujem</string>
+  <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
+  <string name="micloud_detail_wlan">%d čeka na sinhro.</string>
+  <string name="micloud_detail_wlan_contact">%d slika kontakata čeka na sinhro.</string>
+  <string name="micloud_detail_wlan_mms">%d MMS-a čeka na sinhro.</string>
+  <string name="micloud_dspt">Koristite Mi Cloud za sinhronizaciju podataka. pronađi te svoj uređaj,</string>
+  <string name="micloud_dspt_provision">Koristite Mi Cloud za sinhronizaciju podataka, pronađite svoj uređaj, i podelite stvari s prijateljima.</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
+  <string name="micloud_full_influence_dspt">"Sve vaše fotografije,video zapise,beleške i alikacije će ostati sačuvane na cloud. 
+
+Na taj način,ako izgubite ili oštetite uređaj, vaši podaci će idalje biti na sigurnom. 
+
+Kada je vaš cloud pun, vaši stari podaci neće ići nigde. Međutim, svaki novi dodani sadržaj (na primer fotografije, video zapisi, beleške i aplikacije) neće biti sačuvane.
+
+Kada je vaš cloud pun, vaši stari podaci neće ići nigde. Međutim, svaki novi dodani sadržaj (na primer fotografije, video zapisi, beleške i aplikacije) neće biti pohranjene."</string>
+  <string name="micloud_full_influence_title">Kda je vaš Mi Cloud pun</string>
+  <string name="micloud_intro_01_part_01">Uštedite na mobilinim podacima!</string>
+  <string name="micloud_intro_01_part_02">Slanje poruka u Cloudu preko interneta</string>
+  <string name="micloud_intro_02_part_01">Prestanite koristiti USB pogone i račune e-pošte da premestite datoteke okolo</string>
+  <string name="micloud_intro_02_part_02">Sinhronizacija poruka, kontakata i fotografija, i još puno toga među uređajima.</string>
+  <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona sa bilo kog mesta</string>
+  <string name="micloud_intro_03_part_02">Lociranje na daljinu,bilo kog uređaja na i.mi.com</string>
+  <string name="micloud_main_data_unsynced">Čeka na sinhro.: %s</string>
+  <string name="micloud_main_detail">Prikaži detalje</string>
+  <string name="micloud_main_last_sync_time">Zadnje sinhro. %s</string>
+  <string name="micloud_main_network_abnormal">"Ne mogu se spojiti sa mrežom"</string>
+  <string name="micloud_main_network_error">Ne mogu se povezati na mrezu.</string>
+  <string name="micloud_main_set_internet">Mreža</string>
+  <string name="micloud_main_space_full">Nedovoljno prostora za skladištenje</string>
+  <string name="micloud_main_space_low">Ponestaje prostora…</string>
+  <string name="micloud_main_stop_sync">Sinhr. zaustavljena</string>
+  <string name="micloud_main_suggest_setting">"Čeka se WLAN veza za sinhronizaciju
+Dodirnite taster podešavanja za prikaz više opcija"</string>
+  <string name="micloud_main_suggest_sync">"Ne mogu sinhronizovati sve"</string>
+  <string name="micloud_main_sync_exception">greška sinhro.</string>
+  <string name="micloud_main_sync_init">Prikupljanje informacija</string>
+  <string name="micloud_main_sync_now">Sinhronizuj sada</string>
+  <string name="micloud_main_sync_on_wifi">Samo putem WLAN-a</string>
+  <string name="micloud_main_sync_pause">Sinhr. pauzirana</string>
+  <string name="micloud_main_sync_setting">Podešavanja sinhronizacije.</string>
+  <string name="micloud_main_sync_stop">Sinhr. zaustavljena</string>
+  <string name="micloud_main_synced_data_count">Sinhronizovana stavka %d</string>
+  <string name="micloud_main_syncing">Sinhronizujem…</string>
+  <string name="micloud_main_title_sync_fail">"Ne mogu sinhronizovati"</string>
+  <string name="micloud_main_title_sync_off">Sinhr. isključena.</string>
+  <string name="micloud_main_title_sync_on_wifi">Koristi WLAN</string>
+  <string name="micloud_main_update_space">Nabavite više prostora za skladištenje</string>
+  <string name="micloud_main_wlan_sync_data_count">%d stavka čeka na sinhro preko WLAN mreže</string>
+  <string name="micloud_member">Mi Cloud članstvo</string>
+  <string name="micloud_member_advantage">Nabavite više prostora za memoriju.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valjanost %s-%s-%s
+
+%s Mi Kredita"</string>
+  <string name="micloud_member_buy_title">Potvrdite narudžbinu</string>
+  <string name="micloud_member_net_error_alert_message">"Niste povezani sa internetom."</string>
+  <string name="micloud_member_net_error_alert_title">"Ne mogu se povezati na mrežu"</string>
+  <string name="micloud_member_pay_fail_toast">"Nije moguće dovršiti plaćanje"</string>
+  <string name="micloud_member_pay_miid_error_toast">Greška računa</string>
+  <string name="micloud_member_pay_order_error_toast">Greška podataka</string>
+  <string name="micloud_member_refresh_button">Osveži</string>
+  <string name="micloud_member_webload_fail_error_message">Greška mreže</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"Ne mogu učitati stranicu"</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Greška servera</string>
+  <string name="micloud_more">Saznaj više</string>
+  <string name="micloud_other_product_price">Poređenje cena</string>
+  <string name="micloud_proceed">Nastavi</string>
+  <string name="micloud_sec_dspt">i podeli stvari sa svojim prijateljima.</string>
+  <string name="micloud_setting_antispam_summary">Izuzeci i blokirani brojevi telefona.</string>
+  <string name="micloud_setting_browser_summary">Oznake,istorija i kartice</string>
+  <string name="micloud_setting_contact_summary">Podaci o kontaktima, i fotografije profila</string>
+  <string name="micloud_setting_deskclock_summary">Vremenska zona i podešavanje alarma</string>
+  <string name="micloud_setting_gallery_summary">Fotografije i video zapisi</string>
+  <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
+  <string name="micloud_setting_sms_summary">SMS i MMS poruke</string>
+  <string name="micloud_setting_wifi_summary">WLAN podešavanja</string>
+  <string name="micloud_single_dspt">Koristite Mi Cloud za sinhronizaciju podataka, da pronađete svoj uređaj, i podelite stvari sa prijateljima.</string>
+  <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg početnog ekrana</string>
+  <string name="micloud_space_applist_title">Upravljajte aplikacijama</string>
+  <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
+  <string name="micloud_space_duokan_title">Doukan</string>
+  <string name="micloud_space_full_influence">Šta će se dogoditi ako ponestane prostora?</string>
+  <string name="micloud_space_soundrecorder_detail">Upravljajte snimcima sačuvanim na vašem uređaju</string>
+  <string name="micloud_space_soundrecorder_title">Snimci</string>
+  <string name="micloud_storage">Prostor za memoriju</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Osigurajte dovoljno Mi Kredita za automatsku obnovu.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">"Neke cloud usluge mogu biti obustavljene.Preporuka je da se omogući auto. obnovaa."</string>
+  <string name="micloud_storage_expires_soon_title">Poređenje cena cloud prostor za skladištenje će uskoro isteći.</string>
+  <string name="micloud_storage_expires_very_soon_title">Poređenje cena cloud prostor za skladištenje će uskoro isteći.</string>
+  <string name="micloud_storage_usage" formatted="false">Iskorišćeno %s/Ukupan prostor %s</string>
+  <string name="micloud_sync_alert_dialog_message">Sinhronizujte vaše fotografije, kontakte i beleške i više na svim vašim uređajima.</string>
+  <string name="micloud_sync_alert_dialog_negative">Odustani</string>
+  <string name="micloud_sync_alert_dialog_positive">U redu</string>
+  <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
+  <string name="micloud_title_dspt" formatted="false">"Ukupno %s
+ Iskorišćeno %s | Preostalo %s"</string>
+  <string name="micloud_title_dspt_remain">%s preostalo</string>
+  <string name="micloud_title_full_dspt">"Dostigli ste ograničenje prostora skladišta"</string>
+  <string name="micloud_unlogin_for_time_summary"/>
+  <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
+  <string name="micloud_upgrade_space">nabavite više prostora za skladištenje</string>
+  <string name="micloud_user_space_title">Prostor za skladištenje</string>
+  <string name="micloud_user_space_usage">Prostor za skladištenje</string>
+  <string name="micloud_warn_full_sum">"Nove,stavke neće biti sinhronizovane i MiCloudom."</string>
+  <string name="micloud_warn_full_title">Prostor za skladištenje je pun!</string>
+  <string name="micloud_warn_low_sum">"Vaš Mi Cloud iskorišten 90%."</string>
+  <string name="micloud_warn_low_title">Nizak Prostor za skladištenj…</string>
+  <string name="micloud_web_discription">Pošaljite i.mi.com</string>
+  <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
+  <string name="micloud_web_discription_02">da smestite i pristupite vašim fajlovima sa bilo kojeg mesta</string>
+  <string name="micloud_web_discription_international">Pošaljite www.mi.com/micloud</string>
+  <string name="microsoft_cloud">Microsoft Cloud Service</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">oko 80 RMB godišnje</string>
+  <string name="more_activity_in_upgrade_space">Saznajte više na <a href="http://i.mi.com">i.mi.com</a></string>
+  <string name="mx_dspt">Mi poruke</string>
+  <string name="mx_dspt_provision">"Mi poruke omogućavaju vam slanje poruka drugim MIUI korisnicima bez dodatnih SMS troškova.
+  
+  
+Možete uključiti/isključiti tu funkciju bilo kada u podešavanjima."</string>
+  <string name="mx_dspt_provision_privacy">"Ova funkcija može zatražiti vaš broj telefona. Vaš davalac usluga može vam naplatiti SMS poruku korišćenu za aktiviranje ove funkcije.
+  
+  
+Ova funkcija šifruje i šalje ID vašeg uređaja na servere."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Ova funkcija može zatražiti vaš broj telefona. Vaš davalac usluga može vam naplatiti 2 SMS poruke korišćene za aktiviranje ove funkcije.
+  
+  
+Ova funkcija šifruje i šalje ID vašeg uređaja na servere."</string>
+  <string name="mx_dspt_provision_with_voip">Nazovite druge MIUI korisnike besplatno koristeći internet vezu. Možete uključiti/isključiti ovu funkciju u bilo kom trenutku u podešavanjima. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti"</string>
+  <string name="mx_dspt_provision_with_voip2">Pravila o Privatnosti</string>
+  <string name="mx_sub_dspt_provision">Mi poruka</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internet pozivi</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
+  <string name="next">Dalje</string>
+  <string name="noRemind">"Ne podsećaj me"</string>
+  <string name="no_sim">"Nema SIM kartice"</string>
+  <string name="other_settings">Ostala podešavanja</string>
+  <string name="password">Unesite lozinku</string>
+  <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtevati vaš broj telefona. "</string>
+  <string name="phone_number_required_dspt_provision">"Ova usluga zahteva vaš broj telefona. "</string>
+  <string name="photo">Fotografije</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"WLAN mreže"</string>
+  <string name="pref_title_sync_contacts_title">Sinhronizuj podatke</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinhro. fotografija.</string>
+  <string name="pref_title_sync_my_profile_title">Sinhronizuj profil</string>
+  <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinhro. videozapisa.</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="remind_later">Ne sada</string>
+  <string name="restoreSync">Sinhronizuj sada</string>
+  <string name="setting">Podešavanja</string>
+  <string name="settings_backup_title">Podešavanja sig. kopije sistema</string>
+  <string name="share_cancel">Deljenje otkazano</string>
+  <string name="share_failed">"Ne mogu podeliti"</string>
+  <string name="share_miliao_not_installed">MiTalk nije instaliran.</string>
+  <string name="share_success">Uspešno podeljeno</string>
+  <string name="share_weibo_not_installed">Weibo nije instaliran.</string>
+  <string name="share_weixin_not_installed">Wechat nije instaliran.</string>
+  <string name="sina_share_fail">"Ne mogu poslati"</string>
+  <string name="sina_share_fail_content_repeat">"Ne mogu podeliti, sadržaj već postoji…"</string>
+  <string name="sina_share_pendding">Šaljem</string>
+  <string name="sina_share_success">Poslano</string>
+  <string name="sina_token_expired_warning">Weibo račun je istekao: Povežite ponovo</string>
+  <string name="sina_token_invalid_warning">Weibo račun nije dobar: Povežite ponovo</string>
+  <string name="sms">SMS</string>
+  <string name="start_micloud">Start</string>
+  <string name="storage">Prostor za skladištenje</string>
+  <string name="sub_alert_notif_dspt_add">Stavka čeka na sinhro.: %s</string>
+  <string name="sub_alert_notif_dspt_no">Sinhronizovano</string>
+  <string name="sub_alert_notif_title">Sinhronizacija je isključena</string>
+  <string name="sub_sync_item_sms_summary">"Sinhronizuj SMS koji sadrže fotografije, zvuk ili druge medije kada je povezano na WLAN mrežu"</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Sinhronizacija MMS-a samo preko WLAN-a</string>
+  <string name="success_upgraded_space">%s dodano</string>
+  <string name="sync_dspt">Sinhro.</string>
+  <string name="sync_dspt_entrance_provision">"Sinkronizirajte vaše fotografije, kontakte, povijest poziva i poruke između svih vaših uređaja. Pristupite stavkama sinkronizacije s bilo kojeg preglednika na %s."</string>
+  <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_skip"><u>Preskoči ovaj korak</u></string>
+  <string name="sync_dspt_provision">"Sinhronizacija
+Sinhronizujte vaše fotografije, kontakte,beleške, i više između svih vaših uređaja ili im pristupite na "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
+  <string name="sync_dspt_provision3">". Možete uključiti/isključiti tu funkciju bilo kada u postavkama.
+  
+  
+"</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
+  <string name="sync_item_calllog_summary">Sinhronizuj zapise obavljenih/primljenih poziva na ovaj telefon</string>
+  <string name="sync_item_calllog_title">Sinhronizuj istoriju poziva</string>
+  <string name="sync_item_sms_summary">Sinhronizuj poslane/primljene SMS poruke na ovaj telefon</string>
+  <string name="sync_item_sms_title">Sinhronizuj SMS</string>
+  <string name="sync_off">Isključeno</string>
+  <string name="sync_on">Uključeno</string>
+  <string name="sync_resend_sms_dspt_provision">  "Ako promenite SIM kartice, vaš davalac usluga može vam naplatiti SMS poruku korišćenu za ponovno aktiviranje ove usluge."</string>
+  <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslat za povezivanje vaših SIM kartica sa ovim nalogom. Snositi ćete nadoknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_1_sms">SMS će biti poslat za povezivanje vaše SIM kartice sa ovim nalogom. Snositi ćete redovnu nadoknade vašeg mobilnog .</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Međunarodni i domaći SMS će biti poslat za povezivanje vaših SIM kartica sa ovim nalogom. Snositi ćete nadoknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_2_intl_sms">Međunarodni SMS će biti poslat za povezivanje vaših SIM kartica sa ovim nalogom. Snositi ćete nadoknade međunarodnog prometa vašeg mobilnog operatera.</string>
+  <string name="sync_sub_2_sms">SMS će biti poslat za povezivanje vaših SIM kartica sa ovim nalogom. Snositi ćete redovnu nadoknade vašeg mobilnog operatera.</string>
+  <string name="sync_sub_dspt">Aktivacioni SMS podleže redovnim nadoknadama upotrebe podataka.</string>
+  <string name="sync_sub_dspt_provision">Sinhronizacija podataka, kontakata,muzike,aplikacija, i više toga između vaših uređaja</string>
+  <string name="sync_sub_int_dspt">Aktivacioni SMS poruka podleže naknadama međunarodnog prometa upotrebe podataka.</string>
+  <string name="title_reg">Napravite MiRačun</string>
+  <string name="total_space_upgraded_to">Ukupan prostor: %s</string>
+  <string name="unactivated_user">Odjavljeno</string>
+  <string name="upgrade_space">Dodaj prostor</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Kredita godišnje</string>
+  <string name="upgrade_space_successful">Dodano: %sGB</string>
+  <string name="upgrade_space_successful_total">Dostupno: %sGB</string>
+  <string name="upgrade_space_tb">TB</string>
+  <string name="user_agreement">Korisnički sporazum</string>
+  <string name="user_agreement_p6">"
+  
+Korištenjem ove usluge, slažete se sa  "</string>
+  <string name="user_agreement_p7">"Mi Cloud Uslovima pružanja usluge"</string>
+  <string name="user_agreement_p8">.</string>
+  <string name="user_agreement_title">"Mi Cloud Uslovi pružanja usluge"</string>
+  <string name="vcode">Provera koda</string>
+  <string name="verify">Potvrdi</string>
+  <string name="view_storage_title">Prostor za skladištenje</string>
+  <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xmpp_server_addr"/>
+</resources>

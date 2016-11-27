@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Skladište kontakata</string>
+  <string name="call_log_provider_label">Istorija poziva</string>
+  <string name="create_contact">Novi kontakt</string>
+  <string name="debug_dump_database_message">Upravo ćete 1) napraviti kopiju baze podataka koja sadrži sve informacije u vezi sa kontaktima i celokupnu evidenciju poziva u internoj memoriji i 2) poslati je imejlom. Ne zaboravite da izbrišete kopiju čim je budete kopirali sa uređaja ili čim budete primili imejl.</string>
+  <string name="debug_dump_delete_button">Izbriši odmah</string>
+  <string name="debug_dump_email_body">U prilogu je baza podataka sa mojim kontaktima i svim informacijama o njima. Rukujte pažljivo.</string>
+  <string name="debug_dump_email_sender_picker">Izaberite program za slanje datoteke</string>
+  <string name="debug_dump_email_subject">Baza podataka sa kontaktima je u prilogu</string>
+  <string name="debug_dump_start_button">Pokreni</string>
+  <string name="debug_dump_title">Kopiranje baze podataka sa kontaktima</string>
+  <string name="default_directory">Kontakti</string>
+  <string name="edit_contact">Dodaj kontaktu</string>
+  <string name="local_invisible_directory">Drugi</string>
+  <string name="pound_search_tip">Unesite broj nakon # za traženje kontakta</string>
+  <string name="provider_label">Kontakti</string>
+  <string name="read_write_all_voicemail_description">Aplikacija omogućuje memorisanje svih poruka govorne pošte kojem ovaj uređaj može pristupiti.</string>
+  <string name="read_write_all_voicemail_label">Pristup svojoj govornoj pošti</string>
+  <string name="search_the_yellowpage">Pretraži imenik</string>
+  <string name="send_sms">Pošalji poruku</string>
+  <string name="sharedUserLabel">Android Core aplikacije</string>
+  <string name="third_party_delete_contact_info">""%s" pokušava da obriše vaše kontakte. Ovu radnju mogu sprovoditi aplikacije drugih proizvođača. Stim, za brisanje kontakata, koristite MIUI aplikaciju Kontakti."</string>
+  <string name="upgrade_msg">Nadograđivanje baze podataka o kontaktima.</string>
+  <string name="upgrade_out_of_memory_notification_text">Dodirnite da biste dovršili nadogradnju.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Za ažuriranje kontakata potrebno je više memorije.</string>
+  <string name="upgrade_out_of_memory_notification_title">Nadograđivanje memorije za kontakte</string>
+  <string name="voicemail_from_column">"Govorna pošta od "</string>
+</resources>

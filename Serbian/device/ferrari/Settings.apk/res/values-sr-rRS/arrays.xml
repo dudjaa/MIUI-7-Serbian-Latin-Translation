@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Ništa</item>
+        <item>Ručno</item>
+	    <item>Auto. podešavanja</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Lokacija</item>
+        <item>Lično</item>
+        <item>Slanje poruka</item>
+        <item>Mediji</item>
+        <item>Uređaj</item>
+        <item>Pokretanje</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>približna lokacija</item>
+        <item>precizna lokacija</item>
+        <item>GPS</item>
+        <item>vibriranje</item>
+        <item>čitanje kontakata</item>
+        <item>pisanje kontakata</item>
+        <item>čitanje zapisnika poziva</item>
+        <item>pisanje zapisnika poziva</item>
+        <item>čitanje kalendara</item>
+        <item>izmena kalendara</item>
+        <item>skeniranje Wi-Fi-ja</item>
+        <item>obaveštenje</item>
+        <item>skeniranje ćelije</item>
+        <item>poziv na telefon</item>
+        <item>čitanje SMS-a</item>
+        <item>pisanje SMS-a</item>
+        <item>primanje SMS-a</item>
+        <item>primanje SMS-a u nuždi</item>
+        <item>primanje MMS-a</item>
+        <item>primanje WAP obaveštenja</item>
+        <item>slanje SMS-a</item>
+        <item>čitanje ICC SMS-a</item>
+        <item>pisanje ICC SMS-a</item>
+        <item>izmena podešavanja</item>
+        <item>povlačenje na vrh</item>
+        <item>pristup obaveštenjima</item>
+        <item>kamera</item>
+        <item>snimanje zvuka</item>
+        <item>reprodukcija audiozapisa</item>
+        <item>čitaj bafer</item>
+        <item>izmeni bafer</item>
+        <item>mediski dugmići</item>
+        <item>audiofokus</item>
+        <item>glavna jačina</item>
+        <item>jačina glasa</item>
+        <item>jačina zvona</item>
+        <item>jačina medija</item>
+        <item>jačina alarma</item>
+        <item>glasovna obaveštenja</item>
+        <item>jačina Bluetootha</item>
+        <item>zadrži u aktivnom stanju</item>
+        <item>praćenje lokacije</item>
+        <item>praćenje lokacije sa visokom potrošnjom energije</item>
+        <item>Dohvatanje statistike o upotrebi</item>
+        <item>isključivanje/uključivanje mikrofona</item>
+        <item>toast prozora</item>
+        <item>projekcija medija</item>
+        <item>aktiviraj VPN</item>
+        <item>izmena wlana</item>
+        <item>izmena bluetooth</item>
+        <item>slanje MMS-a</item>
+        <item>čitanje MMS-a</item>
+        <item>pisanje MMS-a</item>
+        <item>auto. pokretanje</item>
+        <item>izmena nfc-a</item>
+        <item>brisanje SMS-a</item>
+        <item>brisanje MMS-a</item>
+        <item>brisanje kontakata</item>
+        <item>brisanje zapisnika poziva</item>
+        <item>izmena podataka</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Čitanje kontakata</item>
+        <item>Izmena kontakata</item>
+        <item>Čitanje liste poziva</item>
+        <item>Izmena liste poziva</item>
+        <item>Čitanje kalendara</item>
+        <item>Izmena kalendara</item>
+        <item>Lokacija</item>
+        <item>Objavljivanje obaveštenja</item>
+        <item>Lokacija</item>
+        <item>Poziv na telefon</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Primanje SMS-a/MMS-a</item>
+        <item>Slanje SMS-a/MMS-a</item>
+        <item>Čitanje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Izmena podešavanja</item>
+        <item>Povlačenje na vrh</item>
+        <item>Pristup obaveštenjima</item>
+        <item>Kamera</item>
+        <item>Snimanje zvuka</item>
+        <item>Reprodukcija audiozapisa</item>
+        <item>Čitaj bafer</item>
+        <item>Izmeni bafer</item>
+        <item>Mediski dugmići</item>
+        <item>Audiofokus</item>
+        <item>Glavna jačina</item>
+        <item>Jačina glasa</item>
+        <item>Jačina zvona</item>
+        <item>Jačina medija</item>
+        <item>Jačina alarma</item>
+        <item>Jačina obaveštenja</item>
+        <item>Jačina Bluetootha</item>
+        <item>Zadrži u aktivnom stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Dohvati statistike o upotrebi</item>
+        <item>Isključi/uključi mikrofon</item>
+        <item>Toast prozor</item>
+        <item>Projektuj mediji</item>
+        <item>Aktiviraj VPN</item>
+        <item>Izmeni WLAN</item>
+        <item>Izmeni Bluetooth</item>
+        <item>Pošalji MMS</item>
+        <item>Čitaj MMS</item>
+        <item>Piši MMS</item>
+        <item>Auto. pokratanje</item>
+        <item>Izmeni Nfc</item>
+        <item>Izbriši SMS</item>
+        <item>Izbriši MMS</item>
+        <item>Izbriši kontakte</item>
+        <item>Izbriši zapisnik poziva</item>
+        <item>Izmeni podatke</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Zadato</item>
+        <item>Ništa</item>
+        <item>Obris</item>
+        <item>Senka</item>
+        <item>Izdignuto</item>
+        <item>Utisnuto</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Upotreba zadatih podešavanja aplikacije</item>
+        <item>Belo na crnom</item>
+        <item>Crno na belom</item>
+        <item>Žuto na crnom</item>
+        <item>Žuto na plavom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Zadnje 4 cifre</item>
+        <item>Prve 4 cifre</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Uobičajena</item>
+        <item>Umerena</item>
+        <item>Niska</item>
+        <item>Kritična</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Postojeća</item>
+        <item>Glavna aktivnost</item>
+        <item>Važna (u prvom planu)</item>
+        <item>Važna (u pozadini)</item>
+        <item>Rezervna</item>
+        <item>Teška</item>
+        <item>Usluga (izvodi se)</item>
+        <item>Usluga (ponovo pokretanje)</item>
+        <item>Prijemnik</item>
+        <item>Kuća</item>
+        <item>Poslednja aktivnost</item>
+        <item>Keš (aktivnost)</item>
+        <item>Keš (klijent aktivnosti)</item>
+        <item>Keš (prazan)</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Poslednjih 30 dana</item>
+        <item>Podesi ciklus upotrebe...</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Isključeno</item>
+        <item>Ograničeni prekidi</item>
+        <item>Bez prekida</item>
+    </string-array>
+	 <string-array name="app_ops_permissions">
+        <item>Dopusti</item>
+        <item>Ignoriši</item>
+        <item>Uvek pitaj</item>
+     </string-array>
+	<string-array name="usage_stats_display_order_types">
+        <item>Vreme upotrebe</item>
+        <item>Poslednja upotreba</item>
+        <item>Naziv aplikacije</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>64 KB po baferu.</item>
+        <item>256 KB po baferu.</item>
+        <item>1 MB po baferu.</item>
+        <item>4 MB po baferu.</item>
+        <item>16 MB po baferu.</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Isključeno</item>
+        <item>Na ekranu u obliku traka</item>
+        <item>U naredbi adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="debug_hw_overdraw_entries">
+        <item>Isključeno</item>
+        <item>Pokaži područije slovnih iscrtavanja</item>
+        <item>Prikaži područija za deuteranomaliju</item>
+    </string-array>
+</resources>

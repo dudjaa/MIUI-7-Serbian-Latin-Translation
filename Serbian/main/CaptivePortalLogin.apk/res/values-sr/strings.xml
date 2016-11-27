@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_bar_label">Prijavi me na mrežu</string>
+  <string name="action_do_not_use_network">Ne koristi ovu mrežu</string>
+  <string name="action_use_network">Koristi ovu mrežu takvu kakva je</string>
+  <string name="app_name">CaptivePortalLogin</string>
+</resources>

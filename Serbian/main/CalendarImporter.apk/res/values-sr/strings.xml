@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Kalendar: "</string>
+  <string name="cancel">Otkaži</string>
+  <string name="date_lable">"Datum: "</string>
+  <string name="done">Gotovo</string>
+  <string name="give_up">Prekini</string>
+  <string name="import_button">Uvezi</string>
+  <string name="import_complete">Uvoz završen</string>
+  <string name="import_message">Želite li da uvezete # u Kalendar?</string>
+  <string name="import_title">Uvoz događaja kalendara</string>
+  <string name="import_to">Uvezi u</string>
+  <string name="import_vcs_failed">Uvoz događaja nije uspeo.</string>
+  <string name="importing">Uvoz...</string>
+  <string name="loading">Učitavanje…</string>
+  <string name="no_access_toast">Nalog nije nađen. Prvo dodajte nalog</string>
+  <string name="no_calendars_found">Ovaj nalog ne podržava sinhronizaciju kalendara ili poslednja sinhronizacija još nije završena.</string>
+  <string name="no_syncable_calendars">Nije moguće uvesti</string>
+  <string name="not_support_multi_events">Datoteka sa više događaja nije podržana.</string>
+  <string name="null_name">Ništa</string>
+  <string name="open">Otvori</string>
+  <string name="open_calendar_failed">Kalendar nije dostupan.</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Pokušaj ponovo</string>
+  <string name="title_lable">"Naslov: "</string>
+</resources>

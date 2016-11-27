@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Pronađeno je %1$s štampača</item>
+        <item quantity="one">Pronađen je %1$s štampač</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">Zadaci štampanja %1$d</item>
+        <item quantity="one">Zadatak štampanja %1$d</item>
+    </plurals>
+</resources>

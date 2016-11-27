@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alert_dialog_cancel">Otkaži</string>
+  <string name="alert_dialog_ok">Potvrdi</string>
+  <string name="alert_dialog_two_buttons_message">Telefon se ubrzo mora ohladiti!</string>
+  <string name="alert_dialog_two_buttons_title">Termalno upozorenje!</string>
+  <string name="app_name">MTK Toplotni menadžer</string>
+  <string name="apply_new_thermal_policy">Primeni nove toplotne smernice</string>
+  <string name="coolers">Hladnjaci</string>
+  <string name="thermal_logger">Toplotna evidencija</string>
+  <string name="thermal_policy_file_colon">"Datoteka toplotne smernice: "</string>
+  <string name="thermal_protection">Toplotna zaštita</string>
+  <string name="thermal_sensors">Toplotni senzori</string>
+  <string name="tz_device_info">TZ informacije o uređaju</string>
+</resources>

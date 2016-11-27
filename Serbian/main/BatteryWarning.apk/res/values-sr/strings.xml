@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="btn_cancel_msg">Odbaci</string>
+  <string name="btn_ok_msg">Odloži</string>
+  <string name="msg_battery_low_temperature">Temperatura vaše baterije je preniska, isključite punjač!</string>
+  <string name="msg_battery_over_temperature">Vaša baterija ima previsoku temperaturu, uklonite bateriju!</string>
+  <string name="msg_battery_over_voltage">Vaša baterija ima preveliki napon, uklonite bateriju!</string>
+  <string name="msg_charger_over_voltage">Vaš punjač ima preveliki napon, isključite punjač!</string>
+  <string name="msg_over_current_protection">Vaša baterija je pod zaštitom od prenapona, uklonite bateriju!</string>
+  <string name="msg_safety_timer_timeout">Vreme punjenja je predugo, isključite punjač!</string>
+  <string name="title_battery_low_temperature">Preniska temperatura baterije</string>
+  <string name="title_battery_over_temperature">Previsoka temperatura baterije</string>
+  <string name="title_battery_over_voltage">Preveliki napon baterije</string>
+  <string name="title_charger_over_voltage">Preveliki napon punjača</string>
+  <string name="title_over_current_protection">Zaštita od prenapona</string>
+  <string name="title_safety_timer_timeout">Prekoračeno vreme punjenja</string>
+</resources>

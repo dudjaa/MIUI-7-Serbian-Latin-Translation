@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welcome_notes_content">
+        <item>"Sada možete jednostavno pribeležiti ideje, Beleške, misli pomoću
+"</item>
+        <item>"Priložite fotografije ili kontakte
+"</item>
+        <item>"Precrtajte izvršene obaveze prstom
+"</item>
+        <item>"I još puno drugih stvari!
+  - Sinhronizacija sa Mi Cloud
+  - Podešavanje podsetnika
+ 
+Ako želite saznati više, posetite
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Nadimak</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rođendan</item>
+        <item>Web-lokacija</item>
+        <item>Adresa</item>
+        <item>Beleška</item>
+    </string-array>   
+    <string-array name="font_size_names">
+        <item>Maleno</item>
+        <item>Zadato</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+</resources> 

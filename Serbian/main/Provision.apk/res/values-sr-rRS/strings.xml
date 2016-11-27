@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Slažem se</string>
+  <string name="congratulation_label"/>
+  <string name="disagree">Odustani</string>
+  <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tastature</string>
+  <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte pravila o privatnosti za ovu tastaturu na %s.</string>
+  <string name="input_method_category">"Odaberite zadatu tastaturu koju će te koristiti pri pisanju poruka e-pošte, beleški, i svuda drugde. Takođe možete instalirati druge tastature kasnije."</string>
+  <string name="input_method_setting">Odaberite zadatu tastaturu</string>
+  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="locale_picker_title">Odaberite vaše mesto</string>
+  <string name="miui_privacy_policy_no_network">"Nemate mrežnu vezu. Pogledajte pravila o privatnosti na %s"</string>
+  <string name="miui_terms_no_network">"Nemate mrežnu vezu. Pogledajte uslove pružanja usluge na %s"</string>
+  <string name="multisim_settings_category">Podešavanja poženjne SIM kartice</string>
+  <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
+  <string name="network_access_warning">Morate se povezati sa internetom kako bi aktivirali Mi Usluge.</string>
+  <string name="next">Dalje</string>
+  <string name="other_settings">Dodatna podešavanja</string>
+  <string name="other_settings_location">Lokacije</string>
+  <string name="other_settings_location_summary">Dopustite aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_user_experience">Program iskustva korisnika</string>
+  <string name="other_settings_user_experience_summary">Pomozite nam da poboljšamo MIUI slanjem anonimnih podataka o korišćenju (%s)</string>
+  <string name="other_settings_user_experience_summary1">prikaži Pravila o Privatnosti</string>
+  <string name="page_layout_label">Prilagodi veličinu teksta i izgled početnog ekrana, panela sa obaveštenjima, tastature, i još mnogo toga.</string>
+  <string name="page_layout_title">Raspored sistema</string>
+  <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
+  <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="provision_finish">U redu</string>
+  <string name="provision_finish_restart">Ponovo pokretanje</string>
+  <string name="provision_inputmethod_policy_description">"
+Prikaži Pravila o Privatnosti odabranih tastatura "</string>
+  <string name="provision_inputmethod_policy_description1">Pravila o Privatnosti</string>
+  <string name="setting_locale">Postavljanje mesta…</string>
+  <string name="shut_down">Isključivanje</string>
+  <string name="sim_card_detecting">Proveravam SIM karticu…</string>
+  <string name="sim_card_detecting_title">Provera SIM kartice</string>
+  <string name="sim_card_detection">Ubacite SIM karticu</string>
+  <string name="sim_card_detection_info">Za ubacivanje SIM kartice, pročitajte uputstva koja ste dobili sa uređajem</string>
+  <string name="sim_dectection_next">Nastavi</string>
+  <string name="sim_redetection">Proveri ponovo</string>
+  <string name="skip_underline"><u>Preskoči ovaj korak</u></string>
+  <string name="summary_not_set">Nije podešeno</string>
+  <string name="summary_sim_card">Kartica %1$d%2$s</string>
+  <string name="summary_sim_card_with_operator">Kartica %1$d: %2$s</string>
+  <string name="terms_of_use">Uslovi i Odredbe</string>
+  <string name="terms_of_use_label">"Vaša privatnost nama je vrlo važna. Pročitajte naše uslove korišćenja i Pravila o Privatnosti da bi razumeli koje informacije prikupljamo, kako će mo ih koristiti i koji su vam izbori dostupni.
+
+Morate se složiti sa uslovima pružanja usluge i Pravila o Privatnosti pre nego što počnete da koristite MIUI."</string>
+  <string name="title_congratulation">"Spremni ste za MIUI!"</string>
+  <string name="user_agreement">Uslovi pružanja Usluge</string>
+  <string name="welcome">Dobrodošli</string>
+</resources>

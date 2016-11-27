@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="auto_memory_clean">
+         <item>za 1 min</item>
+         <item>za 5 min</item>
+         <item>za 10 min</item>
+		 <item>za 30 min.</item>
+         <item>Nikad</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+         <item>Pokretač</item>
+         <item>Biranje</item>
+         <item>Poruke</item>
+         <item>Pretraživač</item>
+         <item>Kamera</item>
+         <item>Galerija</item>
+         <item>Muzika</item>
+         <item>E-pošta</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Radnim danima</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Nakon 1 minuta</item>
+        <item>Nakon 5 minuta</item>
+        <item>Nakon 10 minuta</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minut</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Visoke performanse</item>
+        <item>Balansirani</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nikad ne vibriraj</item>
+        <item>Vibracija kad je zvuk utišan</item>
+        <item>Uvek vibriraj</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Isključi</item>
+        <item>Uključi</item>
+        <item>Zadato</item>
+    </string-array>
+</resources>

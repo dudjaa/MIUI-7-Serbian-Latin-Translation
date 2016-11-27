@@ -1,0 +1,9 @@
+<resources>
+    <string name="label_airplane_mode">Avionski Režim</string>
+    <string name="label_silent_mode">Bešumno</string>
+    <string name="label_reboot">Restart</string>
+    <string name="label_shutdown">Isključi</string>
+    <string name="label_alert_reboot">Restart</string>
+    <string name="label_alert_shutdown">Isključi</string>
+	<string name="label_blank">Nazad</string>
+</resources>
